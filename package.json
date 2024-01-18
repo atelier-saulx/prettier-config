@@ -1,12 +1,12 @@
 {
   "name": "@saulx/prettier-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Saulx Prettier Config",
   "homepage": "https://github.com/atelier-saulx/prettier-config",
   "license": "MIT",
   "main": "index.json",
   "peerDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^3.0.0"
   },
   "repository": {
     "type": "git",
